@@ -9,7 +9,7 @@ class Perrito {
         this.pieces = pieces;
     }
     initializeGallery() {
-        let piece3 = new Piece("./Image/PerritoNoPuedeSer.webp", "Este michis nos representa a los programadores que no nos compila nuestro codigo");
+        let piece3 = new Piece("./Image/PerritoNoPuedeSer.webp", "Este michis representa a los programadores que no nos compila nuestro codigo, ni la vida, ni nada *Mood Sad*");
         this.pieces.push(piece3);
     }
 }
